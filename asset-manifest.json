@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dynasql/static/css/main.214844a4.chunk.css",
+    "main.js": "/dynasql/static/js/main.6580b920.chunk.js",
+    "main.js.map": "/dynasql/static/js/main.6580b920.chunk.js.map",
+    "runtime-main.js": "/dynasql/static/js/runtime-main.1b3f1f75.js",
+    "runtime-main.js.map": "/dynasql/static/js/runtime-main.1b3f1f75.js.map",
+    "static/js/2.1c0ab909.chunk.js": "/dynasql/static/js/2.1c0ab909.chunk.js",
+    "static/js/2.1c0ab909.chunk.js.map": "/dynasql/static/js/2.1c0ab909.chunk.js.map",
+    "index.html": "/dynasql/index.html",
+    "precache-manifest.74222146672915092e8892e489192606.js": "/dynasql/precache-manifest.74222146672915092e8892e489192606.js",
+    "service-worker.js": "/dynasql/service-worker.js",
+    "static/css/main.214844a4.chunk.css.map": "/dynasql/static/css/main.214844a4.chunk.css.map",
+    "static/js/2.1c0ab909.chunk.js.LICENSE.txt": "/dynasql/static/js/2.1c0ab909.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b3f1f75.js",
+    "static/js/2.1c0ab909.chunk.js",
+    "static/css/main.214844a4.chunk.css",
+    "static/js/main.6580b920.chunk.js"
+  ]
+}
