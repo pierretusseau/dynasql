@@ -1,0 +1,13 @@
+.options {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.options input[type="text"] {
+    width: 25%;
+}
+
+textarea {
+    width: 90%;
+}
