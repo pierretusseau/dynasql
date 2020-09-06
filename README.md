@@ -1,4 +1,4 @@
-#https://pierretusseau.github.io/dynasql/
+# https://pierretusseau.github.io/dynasql/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
